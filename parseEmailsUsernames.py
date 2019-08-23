@@ -34,7 +34,7 @@ class BurpExtender(IBurpExtender, IContextMenuFactory):
 		self.emails = set()
 		self.user_names = set()
 
-		callbacks.setExtensionName("0xEvilCode EMail Parse & Username Generator")
+		callbacks.setExtensionName("0xEvilC0de - Email Parser & Username Generator")
 		callbacks.registerContextMenuFactory(self)
 
 		return
