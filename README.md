@@ -4,8 +4,8 @@ Burp Suite allows for extensions to be created in Python.  This is a Python exte
 
 # Demo / More Information
 
-[Blog Post - OxEvilC0de.com](https://0xevilc0de.com/finding-usernames-with-burp-extensions/)
-[Demo - YouTube](https://youtu.be/Yf92sZ1sx6o)
+[Blog Post - OxEvilC0de.com](https://0xevilc0de.com/finding-usernames-with-burp-extensions/)  
+[Demo - YouTube](https://youtu.be/Yf92sZ1sx6o)  
 
 # Dependencies
 
